@@ -69,6 +69,12 @@ Auto quote change
 
 Copy & share feature
 
+<img width="1366" height="768" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/68c6d0fa-3ea9-4e20-aa3a-2ee40e872ec8" />
 
-![h4](https://github.com/user-attachments/assets/4aec4bc5-3bdd-4e12-8b17-e480beb41403)
+
+<img width="1366" height="768" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/922d4df2-3bef-4740-9b18-9e4609c894ce" />
+<img width="1366" height="768" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ab1b3150-e19f-4a50-a067-b93743c3c761" />
+<img width="1366" height="768" alt="Vector_Queue" src="https://github.com/user-attachments/assets/5dc5e989-7f7d-4eda-814d-df41739dbc6e" />
+
+
 
